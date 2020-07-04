@@ -1,0 +1,18 @@
+{
+	"name": "patatracker-parser",
+	"version": "1.0.0",
+	"description": "Pata-Tracker file format parser and encoder",
+	"author": "Cedric Stoquer",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/cstoquer/patatracker-parser.git"
+	},
+	"license": "MIT",
+	"keywords": [
+		"patatracker",
+		"tracker",
+		"fakebit",
+		"chiptune"
+	],
+	"main": "./src/index"
+}
